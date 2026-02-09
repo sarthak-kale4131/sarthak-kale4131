@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Sarthak Kale
 
-<!--
-**sarthak-kale4131/sarthak-kale4131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Diploma / B.Tech Student  
+💻 Aspiring Full-Stack Developer  
+🤖 Interested in AI, ML & Real-World Problem Solving  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- Passionate about building practical, real-world projects  
+- Currently working on Full Stack Java & Machine Learning  
+- Love learning by building, breaking, and fixing things  
+- Exploring AI solutions for agriculture & healthcare  
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** Java, Python, JavaScript  
+- **Frontend:** HTML, CSS, React  
+- **Backend:** Java, Node.js  
+- **Database:** MySQL, MongoDB  
+- **Tools:** Git, GitHub, VS Code  
+
+---
+
+## 📌 Projects
+- Online Attendance Management System  
+- AI-Based Carbon Credit System for Farmers  
+- Machine Learning Mini Projects  
+- Web Design & Full-Stack Applications  
+
+---
+
+## 📈 Currently Learning
+- Advanced Java & Spring  
+- Machine Learning & Data Analysis  
+- System Design Basics  
+
+---
+
+## 🤝 Connect With Me
+- 📧 Email: your-email@example.com  
+- 💼 LinkedIn: https://linkedin.com/in/your-profile  
+
+---
+
+⭐ Feel free to explore my repositories and star the ones you like!
