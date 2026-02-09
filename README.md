@@ -39,8 +39,8 @@
 ---
 
 ## 🤝 Connect With Me
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
+- 📧 Email: sarthakkale7620@gmail.com  
+- 💼 LinkedIn:https://www.linkedin.com/in/sarthak-kale-195b7529a/
 
 ---
 
